@@ -68,8 +68,7 @@ Formulaire HTML
                   <option value="c">10-50</option>
                   <option value="d">50-100</option>
                   <option value="e">100-500</option>
-                  <option value="f">500-10000</option>
-                  <option value="g">Plus de 500</option>
+                  <option value="f">Plus de 500</option>
               </select>
             </li>
             <li>
